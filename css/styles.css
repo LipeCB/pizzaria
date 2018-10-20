@@ -1,0 +1,88 @@
+body{
+        border-style: outset;
+        background: linear-gradient(red, blue, red);
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topMenu{
+    text-align: center;
+    border-style: groove;
+    background-color: antiquewhite;
+
+}
+
+img{
+    background-color: antiquewhite;
+    border-style: groove; 
+
+}
+
+#today{
+    background: radial-gradient(red,cornflowerblue);
+    text-align: center;
+    border-style: double;
+   }
+#special{
+    font-size: 48px;
+    font-style: italic;
+    font-family: cursive, serif;
+}
+
+h1{
+    background: radial-gradient(circle, red, blue);
+    border-bottom: 30px;
+    text-align: center;
+    font-size: 48px;
+    font-style: oblique;
+    
+}
+h2{
+    text-align: center;
+}
+
+
+#Menu{
+    border-style: double;
+    text-align: center;
+    
+}
+    h3{
+        font-size: 32px;
+        color: cornsilk;
+    }
+    .pizzaName{
+        font-size: 24px;
+    }
+    .price{
+        font-size: 24px;
+        color: olivedrab;
+        font-style: oblique;
+                
+    }
+    .description{
+    font-size: 24px;
+    color:powderblue;
+    font-stretch: expanded;
+    }
+
+    .pizzaName{
+        color: red;
+        font-size: 32px;
+
+    }
+
+#subscribe{
+    text-align: center;
+
+}
+
+.hours{
+    text-align: center;
+    font-size: 24px;
+    border-style: double;
+    color: cornsilk;
